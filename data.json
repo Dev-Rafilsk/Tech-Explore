@@ -1,0 +1,65 @@
+[
+    {
+        "nome": "C#",
+        "descricao": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft. É amplamente utilizada para desenvolver aplicações para o ecossistema Windows, serviços web e jogos com a engine Unity.",
+        "ano": 2000,
+        "criador": "Anders Hejlsberg",
+        "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google. É conhecida por sua simplicidade, eficiência e forte suporte para programação concorrente, sendo ideal para serviços de backend e microsserviços.",
+        "ano": 2009,
+        "criador": "Robert Griesemer, Rob Pike e Ken Thompson",
+        "link": "https://golang.org/"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem de programação orientada a objetos, de propósito geral, concorrente e baseada em classes. É uma das linguagens mais populares para desenvolvimento de aplicações corporativas, sistemas Android e aplicações de larga escala.",
+        "ano": 1995,
+        "criador": "James Gosling",
+        "link": "https://www.java.com/"
+    },
+    {
+        "nome":"JavaScript",
+        "descricao":"JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos. É amplamente utilizada para desenvolvimento web, permitindo a criação de páginas interativas e dinâmicas.",
+        "ano":1995,
+        "criador":"Brendan Eich",
+        "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome":"Python",
+        "descricao":"Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Conhecida por sua sintaxe clara e legibilidade, é amplamente utilizada em diversas áreas, como desenvolvimento web, ciência de dados, automação e inteligência artificial.",
+        "ano":1991,
+        "criador":"Guido van Rossum",
+        "link":"https://www.python.org/"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superset de JavaScript que adiciona tipagem estática opcional à linguagem. Desenvolvido pela Microsoft, ajuda a construir aplicações JavaScript mais robustas e escaláveis, especialmente em projetos grandes.",
+        "ano": 2012,
+        "criador": "Microsoft",
+        "link": "https://www.typescriptlang.org/"
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Rust é uma linguagem de programação focada em segurança, velocidade e concorrência. Desenvolvida pela Mozilla, é ideal para sistemas de baixo nível, como sistemas operacionais e drivers de dispositivo.",
+        "ano": 2010,
+        "criador": "Graydon Hoare",
+        "link": "https://www.rust-lang.org/pt-BR"
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple para desenvolver apps para iOS, Mac, Apple TV e Apple Watch. É projetada para dar aos desenvolvedores mais liberdade do que nunca.",
+        "ano": 2014,
+        "criador": "Apple Inc.",
+        "link": "https://www.swift.org/"
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Kotlin é uma linguagem de programação moderna, concisa e segura, desenvolvida pela JetBrains. É totalmente interoperável com Java e foi oficialmente suportada pelo Google para o desenvolvimento Android.",
+        "ano": 2011,
+        "criador": "JetBrains",
+        "link": "https://kotlinlang.org/"
+    }
+]
